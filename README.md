@@ -1,2 +1,2 @@
 # First-Trial
-All projects I've worked on in the Bootcamp
+Primer challenges I worked on in the Bootcamp
